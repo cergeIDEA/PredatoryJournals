@@ -1,4 +1,4 @@
-var bZoomed = false;
+﻿var bZoomed = false;
 function DrawChart() {
 	var points = $.map(data.points,function (el) {return el; })
 
@@ -34,6 +34,7 @@ function DrawChart() {
 	//define canvas
 	var svg = d3.select('#chart')
 		.append('svg')
+		.attr('overflow', 'hidden')
 		.attr('id','svg')
 		.attr("width",width + margin.left + margin.right + "px")
 		.attr("height",height +margin.bottom + margin.top + "px")

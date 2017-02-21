@@ -193,11 +193,11 @@ function DrawChart() {
 		  .attr("dy", ".35em")
 		  .style("text-anchor", "begin")
 		  .text(function(d) { return d;})
-			if (detectIE() != false)
-			{
-					$('#btnZoom').css('display','none');
-					$('#ddlSearch').css('width','580px')
-			}
+			//if (detectIE() != false)
+			//{
+			//		$('#btnZoom').css('display','none');
+			//		$('#ddlSearch').css('width','580px')
+			//}
 	};
 
 function UpdateZoom()

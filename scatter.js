@@ -3,8 +3,8 @@ function DrawChart() {
 	var points = $.map(data.points,function (el) {return el; })
 
 	var margin = {top:30,right:20,bottom:30,left:40},
-		width = 600 - margin.left - margin.right,
-		height = 550 - margin.top - margin.bottom;
+		width = 530 - margin.left - margin.right,
+		height = 500 - margin.top - margin.bottom;
 
 	var zMin = 30;
 	var zMax = 5000;
@@ -172,11 +172,14 @@ function DrawChart() {
       .text(data.xLabel);
 
 	// add legend frame
+ 	  var legPositions = [0,80,200,330];
+
 	  var legend = g.selectAll(".legend")
 	      .data(color.domain())
 	    .enter().append("g")
 	      .attr("class", "legend")
-	      .attr("transform", function(d, i) { return "translate(" + i * 133 + ",-14)"; });
+	      //.attr("transform", function(d, i) { return "translate(" + i * 110 + ",-14)"; });
+		  .attr("transform", function(d, i) { return "translate(" + legPositions[i] + ",-14)"; });
 
 	  // draw legend colored rectangles
 	  legend.append("circle")

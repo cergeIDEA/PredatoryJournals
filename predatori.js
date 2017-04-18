@@ -3,7 +3,7 @@ var data ={
    "yLabel":"Scimago Journal Rank",
    "xLabel":"% autorů z rozvinutých zemí",
    "points":{
-      "1":{
+      "1096-3685":{
          "ISSN":"1096-3685",
          "JournalName":"Academy of Accounting and Financial Studies Journal",
          "Publisher":"Allied Academies",
@@ -19,7 +19,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "2":{
+      "1087-9595":{
          "ISSN":"1087-9595",
          "JournalName":"Academy of Entrepreneurship Journal",
          "Publisher":"Allied Academies",
@@ -35,7 +35,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "3":{
+      "1095-6298":{
          "ISSN":"1095-6298",
          "JournalName":"Academy of Marketing Studies Journal",
          "Publisher":"Allied Academies",
@@ -51,7 +51,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "4":{
+      "1544-1458":{
          "ISSN":"1544-1458",
          "JournalName":"Academy of Strategic Management Journal",
          "Publisher":"Allied Academies",
@@ -67,7 +67,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "5":{
+      "1936-6612":{
          "ISSN":"1936-6612",
          "JournalName":"Advanced Science Letters",
          "Publisher":"American Scientific Publishers",
@@ -83,7 +83,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "6":{
+      "1313-1311":{
          "ISSN":"1313-1311",
          "JournalName":"Advanced Studies in Theoretical Physics",
          "Publisher":"Hikari Ltd.",
@@ -99,7 +99,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "7":{
+      "0189-6016":{
          "ISSN":"0189-6016",
          "JournalName":"African Journal of Traditional, Complementary and Alternative Medicines",
          "Publisher":"African Ethnomedicines Network",
@@ -115,7 +115,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "8":{
+      "1945-4589":{
          "ISSN":"1945-4589",
          "JournalName":"Aging",
          "Publisher":"Impact Journals LLC",
@@ -131,7 +131,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "9":{
+      "1993-6788":{
          "ISSN":"1993-6788",
          "JournalName":"Aktualni Problemy Ekonomiky",
          "Publisher":"Natsionalna Akademiya Upravlinnya,National Academy of Management",
@@ -147,7 +147,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "10":{
+      "1557-4989":{
          "ISSN":"1557-4989",
          "JournalName":"American Journal of Agricultural and Biological Sciences",
          "Publisher":"Science Publications",
@@ -163,7 +163,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "11":{
+      "1557-4555":{
          "ISSN":"1557-4555",
          "JournalName":"American Journal of Animal and Veterinary Sciences",
          "Publisher":"Science Publications",
@@ -179,7 +179,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "12":{
+      "1546-9239":{
          "ISSN":"1546-9239",
          "JournalName":"American Journal of Applied Sciences",
          "Publisher":"Science Publications",
@@ -195,7 +195,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "13":{
+      "1553-3468":{
          "ISSN":"1553-3468",
          "JournalName":"American Journal of Biochemistry and Biotechnology",
          "Publisher":"Science Publications",
@@ -211,7 +211,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "14":{
+      "2150-4210":{
          "ISSN":"2150-4210",
          "JournalName":"American Journal of Biochemistry and Molecular Biology",
          "Publisher":"Academic Journals, Inc.",
@@ -227,7 +227,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "15":{
+      "2150-427X":{
          "ISSN":"2150-427X",
          "JournalName":"American Journal of Drug Discovery and Development",
          "Publisher":"Academic Journals, Inc.",
@@ -243,7 +243,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "16":{
+      "1553-345X":{
          "ISSN":"1553-345X",
          "JournalName":"American Journal of Environmental Sciences",
          "Publisher":"Science Publications",
@@ -259,7 +259,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "17":{
+      "1557-4571":{
          "ISSN":"1557-4571",
          "JournalName":"American Journal of Food Technology",
          "Publisher":"Academic Journals, Inc.",
@@ -275,7 +275,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "18":{
+      "1553-619X":{
          "ISSN":"1553-619X",
          "JournalName":"American Journal of Immunology",
          "Publisher":"Science Publications",
@@ -291,7 +291,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "19":{
+      "1553-6203":{
          "ISSN":"1553-6203",
          "JournalName":"American Journal of Infectious Diseases",
          "Publisher":"Science Publications",
@@ -307,7 +307,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "20":{
+      "1557-4962":{
          "ISSN":"1557-4962",
          "JournalName":"American Journal of Pharmacology and Toxicology",
          "Publisher":"Science Publications",
@@ -323,7 +323,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "21":{
+      "1943-8141":{
          "ISSN":"1943-8141",
          "JournalName":"American Journal of Translational Research",
          "Publisher":"E-Century Publishing Corporation",
@@ -339,7 +339,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "22":{
+      "1312-885X":{
          "ISSN":"1312-885X",
          "JournalName":"Applied Mathematical Sciences",
          "Publisher":"Hikari Ltd.",
@@ -355,7 +355,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "23":{
+      "2325-0399":{
          "ISSN":"2325-0399",
          "JournalName":"Applied Mathematics & Information Sciences (Online)",
          "Publisher":"Natural Sciences Publishing Corporation",
@@ -371,7 +371,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "24":{
+      "0970-7077":{
          "ISSN":"0970-7077",
          "JournalName":"Asian Journal of Chemistry",
          "Publisher":"Chemic Publishing Company",
@@ -387,7 +387,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "25":{
+      "1682-3915":{
          "ISSN":"1682-3915",
          "JournalName":"Asian Journal of Information Technology",
          "Publisher":"Medwell Journals",
@@ -403,7 +403,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "26":{
+      "2222-1808":{
          "ISSN":"2222-1808",
          "JournalName":"Asian Pacific Journal of Tropical Disease",
          "Publisher":"Hainan Medical College,Hainan Yixueyuan",
@@ -419,7 +419,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "27":{
+      "1911-2017":{
          "ISSN":"1911-2017",
          "JournalName":"Asian Social Science",
          "Publisher":"Canadian Center of Science and Education",
@@ -435,7 +435,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "28":{
+      "0974-6242":{
          "ISSN":"0974-6242",
          "JournalName":"Biomedical & Pharmacology Journal",
          "Publisher":"Oriental Scientific Publishing Company, Inc.",
@@ -451,7 +451,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "29":{
+      "0973-1245":{
          "ISSN":"0973-1245",
          "JournalName":"Biosciences Biotechnology Research Asia",
          "Publisher":"Oriental Scientific Publishing Company, Inc.",
@@ -467,7 +467,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "30":{
+      "0974-0546":{
          "ISSN":"0974-0546",
          "JournalName":"Carbon Science and Technology",
          "Publisher":"Applied Science Innovations Pvt. Ltd.",
@@ -483,7 +483,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "31":{
+      "0145-5680":{
          "ISSN":"0145-5680",
          "JournalName":"Cellular and Molecular Biology",
          "Publisher":" C M B Association",
@@ -499,7 +499,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "32":{
+      "1745-0179":{
          "ISSN":"1745-0179",
          "JournalName":"Clinical Practice and Epidemiology in Mental Health",
          "Publisher":"Bentham Open",
@@ -515,7 +515,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "33":{
+      "1313-6569":{
          "ISSN":"1313-6569",
          "JournalName":"Contemporary Engineering Sciences",
          "Publisher":"Hikari Ltd.",
@@ -531,7 +531,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "34":{
+      "1810-8601":{
          "ISSN":"1810-8601",
          "JournalName":"Corporate Board: Role, Duties and Composition",
          "Publisher":"Virtus Interpress",
@@ -547,7 +547,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "35":{
+      "1727-9232":{
          "ISSN":"1727-9232",
          "JournalName":"Corporate Ownership & Control",
          "Publisher":"Virtus Interpress",
@@ -563,7 +563,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "36":{
+      "0975-413X":{
          "ISSN":"0975-413X",
          "JournalName":"Der Pharma Chemica",
          "Publisher":"Scholars Research Library",
@@ -579,7 +579,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "37":{
+      "0975-5071":{
          "ISSN":"0975-5071",
          "JournalName":"Der Pharmacia Lettre",
          "Publisher":"Scholars Research Library",
@@ -595,7 +595,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "38":{
+      "1089-3032":{
          "ISSN":"1089-3032",
          "JournalName":"Electronic Journal of Geotechnical Engineering",
          "Publisher":"Electronic Journal of Geotechnical Engineering",
@@ -611,7 +611,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "39":{
+      "1916-4742":{
          "ISSN":"1916-4742",
          "JournalName":"English Language Teaching",
          "Publisher":"Canadian Center of Science and Education",
@@ -627,7 +627,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "40":{
+      "1841-0464":{
          "ISSN":"1841-0464",
          "JournalName":"European Journal of Science and Theology",
          "Publisher":"Editura EcoZone",
@@ -643,7 +643,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "41":{
+      "1663-4365":{
          "ISSN":"1663-4365",
          "JournalName":"Frontiers in Aging Neuroscience",
          "Publisher":"Frontiers Research Foundation",
@@ -659,7 +659,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "42":{
+      "1662-5153":{
          "ISSN":"1662-5153",
          "JournalName":"Frontiers in Behavioral Neuroscience",
          "Publisher":"Frontiers Research Foundation",
@@ -675,7 +675,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "43":{
+      "1945-0508":{
          "ISSN":"1945-0508",
          "JournalName":"Frontiers in Bioscience (Elite Edition)",
          "Publisher":"Frontiers in Bioscience",
@@ -691,7 +691,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "44":{
+      "1945-0524":{
          "ISSN":"1945-0524",
          "JournalName":"Frontiers in Bioscience (Scholar Edition)",
          "Publisher":"Frontiers in Bioscience",
@@ -707,7 +707,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "45":{
+      "2235-2988":{
          "ISSN":"2235-2988",
          "JournalName":"Frontiers in Cellular and Infection Microbiology",
          "Publisher":"Frontiers Research Foundation",
@@ -723,7 +723,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "46":{
+      "1662-5102":{
          "ISSN":"1662-5102",
          "JournalName":"Frontiers in Cellular Neuroscience",
          "Publisher":"Frontiers Research Foundation",
@@ -739,7 +739,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "47":{
+      "1662-5188":{
          "ISSN":"1662-5188",
          "JournalName":"Frontiers in Computational Neuroscience",
          "Publisher":"Frontiers Research Foundation",
@@ -755,7 +755,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "48":{
+      "1664-2392":{
          "ISSN":"1664-2392",
          "JournalName":"Frontiers in Endocrinology",
          "Publisher":"Frontiers Research Foundation",
@@ -771,7 +771,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "49":{
+      "1664-8021":{
          "ISSN":"1664-8021",
          "JournalName":"Frontiers in Genetics",
          "Publisher":"Frontiers Research Foundation",
@@ -787,7 +787,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "50":{
+      "1662-5161":{
          "ISSN":"1662-5161",
          "JournalName":"Frontiers in Human Neuroscience",
          "Publisher":"Frontiers Research Foundation",
@@ -803,7 +803,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "51":{
+      "1664-3224":{
          "ISSN":"1664-3224",
          "JournalName":"Frontiers in Immunology",
          "Publisher":"Frontiers Research Foundation",
@@ -819,7 +819,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "52":{
+      "1662-5145":{
          "ISSN":"1662-5145",
          "JournalName":"Frontiers in Integrative Neuroscience",
          "Publisher":"Frontiers Research Foundation",
@@ -835,7 +835,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "53":{
+      "1664-302X":{
          "ISSN":"1664-302X",
          "JournalName":"Frontiers in Microbiology",
          "Publisher":"Frontiers Research Foundation",
@@ -851,7 +851,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "54":{
+      "1662-5099":{
          "ISSN":"1662-5099",
          "JournalName":"Frontiers in Molecular Neuroscience",
          "Publisher":"Frontiers Research Foundation",
@@ -867,7 +867,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "55":{
+      "1662-5110":{
          "ISSN":"1662-5110",
          "JournalName":"Frontiers in Neural Circuits",
          "Publisher":"Frontiers Research Foundation",
@@ -883,7 +883,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "56":{
+      "1662-5129":{
          "ISSN":"1662-5129",
          "JournalName":"Frontiers in Neuroanatomy",
          "Publisher":"Frontiers Research Foundation",
@@ -899,7 +899,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "57":{
+      "1662-6443":{
          "ISSN":"1662-6443",
          "JournalName":"Frontiers in Neuroengineering",
          "Publisher":"Frontiers Research Foundation",
@@ -915,7 +915,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "58":{
+      "1662-5196":{
          "ISSN":"1662-5196",
          "JournalName":"Frontiers in Neuroinformatics",
          "Publisher":"Frontiers Research Foundation",
@@ -931,7 +931,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "59":{
+      "1664-2295":{
          "ISSN":"1664-2295",
          "JournalName":"Frontiers in Neurology",
          "Publisher":"Frontiers Research Foundation",
@@ -947,7 +947,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "60":{
+      "1662-5218":{
          "ISSN":"1662-5218",
          "JournalName":"Frontiers in Neurorobotics",
          "Publisher":"Frontiers Research Foundation",
@@ -963,7 +963,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "61":{
+      "1662-453X":{
          "ISSN":"1662-453X",
          "JournalName":"Frontiers in Neuroscience",
          "Publisher":"Frontiers Research Foundation",
@@ -979,7 +979,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "62":{
+      "2234-943X":{
          "ISSN":"2234-943X",
          "JournalName":"Frontiers in Oncology",
          "Publisher":"Frontiers Research Foundation",
@@ -995,7 +995,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "63":{
+      "1663-9812":{
          "ISSN":"1663-9812",
          "JournalName":"Frontiers in Pharmacology",
          "Publisher":"Frontiers Research Foundation",
@@ -1011,7 +1011,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "64":{
+      "1664-042X":{
          "ISSN":"1664-042X",
          "JournalName":"Frontiers in Physiology",
          "Publisher":"Frontiers Research Foundation",
@@ -1027,7 +1027,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "65":{
+      "1664-462X":{
          "ISSN":"1664-462X",
          "JournalName":"Frontiers in Plant Science",
          "Publisher":"Frontiers Research Foundation",
@@ -1043,7 +1043,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "66":{
+      "1664-0640":{
          "ISSN":"1664-0640",
          "JournalName":"Frontiers in Psychiatry",
          "Publisher":"Frontiers Research Foundation",
@@ -1059,7 +1059,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "67":{
+      "1664-1078":{
          "ISSN":"1664-1078",
          "JournalName":"Frontiers in Psychology",
          "Publisher":"Frontiers Research Foundation",
@@ -1075,7 +1075,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "68":{
+      "1663-3563":{
          "ISSN":"1663-3563",
          "JournalName":"Frontiers in Synaptic Neuroscience",
          "Publisher":"Frontiers Research Foundation",
@@ -1091,7 +1091,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "69":{
+      "1662-5137":{
          "ISSN":"1662-5137",
          "JournalName":"Frontiers in Systems Neuroscience",
          "Publisher":"Frontiers Research Foundation",
@@ -1107,7 +1107,7 @@ var data ={
          "DOAJ":"with green tick",
          "ScopusDiscontinued":"False"
       },
-      "70":{
+      "1947-6019":{
          "ISSN":"1947-6019",
          "JournalName":"Genes & Cancer",
          "Publisher":"Impact Journals LLC",
@@ -1123,7 +1123,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "71":{
+      "1916-9736":{
          "ISSN":"1916-9736",
          "JournalName":"Global Journal of Health Science",
          "Publisher":"Canadian Center of Science and Education",
@@ -1139,7 +1139,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "72":{
+      "0973-1768":{
          "ISSN":"0973-1768",
          "JournalName":"Global Journal of Pure and Applied Mathematics",
          "Publisher":"Research India Publications",
@@ -1155,7 +1155,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "73":{
+      "1992-6197":{
          "ISSN":"1992-6197",
          "JournalName":"Global Veterinaria",
          "Publisher":"International Digital Organization for Scientific Information",
@@ -1171,7 +1171,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "74":{
+      "0974-6846":{
          "ISSN":"0974-6846",
          "JournalName":"Indian Journal of Science and Technology",
          "Publisher":"Indian Society for Education and Environment",
@@ -1187,7 +1187,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "75":{
+      "1343-4500":{
          "ISSN":"1343-4500",
          "JournalName":"Information",
          "Publisher":"International Information Institute",
@@ -1203,7 +1203,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "76":{
+      "1337-6853":{
          "ISSN":"1337-6853",
          "JournalName":"Interdisciplinary Toxicology",
          "Publisher":"Slovenska Akademia Vied * Ustav Experimentalnej Biologie Farmakologie a Toxicologie",
@@ -1219,7 +1219,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "77":{
+      "1532-5822":{
          "ISSN":"1532-5822",
          "JournalName":"International Academy for Case Studies. Journal",
          "Publisher":"Allied Academies",
@@ -1235,7 +1235,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "78":{
+      "1993-5250":{
          "ISSN":"1993-5250",
          "JournalName":"International Business Management",
          "Publisher":"Medwell Journals",
@@ -1251,7 +1251,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "79":{
+      "1913-9020":{
          "ISSN":"1913-9020",
          "JournalName":"International Education Studies",
          "Publisher":"Canadian Center of Science and Education",
@@ -1267,7 +1267,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "80":{
+      "1729-8806":{
          "ISSN":"1729-8806",
          "JournalName":"International Journal of Advanced Robotic Systems",
          "Publisher":"InTech Open Access Publisher",
@@ -1283,7 +1283,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "81":{
+      "1816-4897":{
          "ISSN":"1816-4897",
          "JournalName":"International Journal of Agricultural Research",
          "Publisher":"Academic Journals, Inc.",
@@ -1299,7 +1299,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "82":{
+      "1560-8530":{
          "ISSN":"1560-8530",
          "JournalName":"International Journal of Agriculture and Biology",
          "Publisher":"Friends Science Publishers",
@@ -1315,7 +1315,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "83":{
+      "0973-1792":{
          "ISSN":"0973-1792",
          "JournalName":"International Journal of Applied Chemistry",
          "Publisher":"Research India Publications",
@@ -1331,7 +1331,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "84":{
+      "0973-4562":{
          "ISSN":"0973-4562",
          "JournalName":"International Journal of Applied Engineering Research (New Delhi)",
          "Publisher":"Research India Publications",
@@ -1347,7 +1347,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "85":{
+      "0973-6077":{
          "ISSN":"0973-6077",
          "JournalName":"International Journal of Applied Environmental Sciences",
          "Publisher":"Research India Publications",
@@ -1363,7 +1363,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "86":{
+      "1940-6223":{
          "ISSN":"1940-6223",
          "JournalName":"International Journal of Applied Research in Natural Products",
          "Publisher":"Healthy Synergies Publications",
@@ -1379,7 +1379,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "87":{
+      "1819-155X":{
          "ISSN":"1819-155X",
          "JournalName":"International Journal of Biological Chemistry",
          "Publisher":"Academic Journals, Inc.",
@@ -1395,7 +1395,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "88":{
+      "1550-9702":{
          "ISSN":"1550-9702",
          "JournalName":"International Journal of Biomedical Science",
          "Publisher":"Master Publishing Group",
@@ -1411,7 +1411,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "89":{
+      "2233-7849":{
          "ISSN":"2233-7849",
          "JournalName":"International Journal of Bio-Science and Bio-Technology",
          "Publisher":"Science and Engineering Research Support Society",
@@ -1427,7 +1427,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "90":{
+      "1555-1296":{
          "ISSN":"1555-1296",
          "JournalName":"International Journal of Business Research (Turlock)",
          "Publisher":"International  Academy of Business and Economics",
@@ -1443,7 +1443,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "91":{
+      "1811-9727":{
          "ISSN":"1811-9727",
          "JournalName":"International Journal of Cancer Research",
          "Publisher":"Academic Journals, Inc.",
@@ -1459,7 +1459,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "92":{
+      "0972-768X":{
          "ISSN":"0972-768X",
          "JournalName":"International Journal of Chemical Sciences",
          "Publisher":"Sadguru Publications",
@@ -1475,7 +1475,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "93":{
+      "1940-5901":{
          "ISSN":"1940-5901",
          "JournalName":"International Journal of Clinical and Experimental Medicine",
          "Publisher":"E-Century Publishing Corporation",
@@ -1491,7 +1491,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "94":{
+      "1936-2625":{
          "ISSN":"1936-2625",
          "JournalName":"International Journal of Clinical and Experimental Pathology",
          "Publisher":"E-Century Publishing Corporation",
@@ -1507,7 +1507,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "95":{
+      "2076-0930":{
          "ISSN":"2076-0930",
          "JournalName":"International Journal of Communication Networks and Information Security",
          "Publisher":"Kohat University of Science and Technology, Institute of Information Technology",
@@ -1523,7 +1523,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "96":{
+      "2005-4297":{
          "ISSN":"2005-4297",
          "JournalName":"International Journal of Control and Automation",
          "Publisher":"Science and Engineering Research Support Society",
@@ -1539,7 +1539,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "97":{
+      "1811-9743":{
          "ISSN":"1811-9743",
          "JournalName":"International Journal of Dairy Science",
          "Publisher":"Academic Journals, Inc.",
@@ -1555,7 +1555,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "98":{
+      "2146-4138":{
          "ISSN":"2146-4138",
          "JournalName":"International Journal of Economics and Financial Issues",
          "Publisher":"Econjournals",
@@ -1571,7 +1571,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "99":{
+      "1452-3981":{
          "ISSN":"1452-3981",
          "JournalName":"International Journal of Electrochemical Science",
          "Publisher":"Electrochemical Science Group",
@@ -1587,7 +1587,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "100":{
+      "2146-4553":{
          "ISSN":"2146-4553",
          "JournalName":"International Journal of Energy Economics and Policy",
          "Publisher":"Econjournals",
@@ -1603,7 +1603,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "101":{
+      "0975-4024":{
          "ISSN":"0975-4024",
          "JournalName":"International Journal of Engineering and Technology",
          "Publisher":"Engg Journals Publications",
@@ -1619,7 +1619,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "102":{
+      "1847-9790":{
          "ISSN":"1847-9790",
          "JournalName":"International Journal of Engineering Business Management",
          "Publisher":"InTech Open Access Publisher",
@@ -1635,7 +1635,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "103":{
+      "1099-9264":{
          "ISSN":"1099-9264",
          "JournalName":"International Journal of Entrepreneurship",
          "Publisher":"Allied Academies",
@@ -1651,7 +1651,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "104":{
+      "2093-4009":{
          "ISSN":"2093-4009",
          "JournalName":"International Journal of Information Processing and Management",
          "Publisher":"Advanced Institute of Convergence Information Technology",
@@ -1667,7 +1667,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "105":{
+      "1312-8876":{
          "ISSN":"1312-8876",
          "JournalName":"International Journal of Mathematical Analysis",
          "Publisher":"Hikari Ltd.",
@@ -1683,7 +1683,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "106":{
+      "1998-0140":{
          "ISSN":"1998-0140",
          "JournalName":"International Journal of Mathematical Models and Methods in Applied Sciences",
          "Publisher":"North Atlantic University Union (N A U N)",
@@ -1699,7 +1699,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "107":{
+      "1948-1756":{
          "ISSN":"1948-1756",
          "JournalName":"International Journal of Molecular Epidemiology and Genetics",
          "Publisher":"E-Century Publishing Corporation",
@@ -1715,7 +1715,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "108":{
+      "1975-0080":{
          "ISSN":"1975-0080",
          "JournalName":"International Journal of Multimedia and Ubiquitous Engineering",
          "Publisher":"Science and Engineering Research Support Society",
@@ -1731,7 +1731,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "109":{
+      "0975-6299":{
          "ISSN":"0975-6299",
          "JournalName":"International Journal of Pharma and Bio Sciences",
          "Publisher":"P. Muthuprasanna Pub. & Ed.",
@@ -1747,7 +1747,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "110":{
+      "0976-044X":{
          "ISSN":"0976-044X",
          "JournalName":"International Journal of Pharmaceutical Sciences Review and Research",
          "Publisher":"Global Research Online Publishing House",
@@ -1763,7 +1763,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "111":{
+      "0975-1491":{
          "ISSN":"0975-1491",
          "JournalName":"International Journal of Pharmacy and Pharmaceutical Sciences",
          "Publisher":"International Journal of Pharmacy and Pharmaceutical Sciences",
@@ -1779,7 +1779,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "112":{
+      "0975-766X":{
          "ISSN":"0975-766X",
          "JournalName":"International Journal of Pharmacy and Technology",
          "Publisher":"B. Anil Reddy, Ed. & Pub.",
@@ -1795,7 +1795,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "113":{
+      "1944-8171":{
          "ISSN":"1944-8171",
          "JournalName":"International Journal of Physiology, Pathophysiology and Pharmacology",
          "Publisher":"E-Century Publishing Corporation",
@@ -1811,7 +1811,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "114":{
+      "1738-9976":{
          "ISSN":"1738-9976",
          "JournalName":"International Journal of Security and Its Applications",
          "Publisher":"Science and Engineering Research Support Society",
@@ -1827,7 +1827,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "115":{
+      "1975-4094":{
          "ISSN":"1975-4094",
          "JournalName":"International Journal of Smart Home",
          "Publisher":"Science and Engineering Research Support Society",
@@ -1843,7 +1843,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "116":{
+      "1816-9503":{
          "ISSN":"1816-9503",
          "JournalName":"International Journal of Soft Computing",
          "Publisher":"Medwell Journals",
@@ -1859,7 +1859,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "117":{
+      "1738-9984":{
          "ISSN":"1738-9984",
          "JournalName":"International Journal of Software Engineering and Its Applications",
          "Publisher":"Science and Engineering Research Support Society",
@@ -1875,7 +1875,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "118":{
+      "1816-4978":{
          "ISSN":"1816-4978",
          "JournalName":"International Journal of Soil Science",
          "Publisher":"Academic Journals, Inc.",
@@ -1891,7 +1891,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "119":{
+      "1816-3319":{
          "ISSN":"1816-3319",
          "JournalName":"International Journal of Tropical Medicine",
          "Publisher":"Medwell Journals",
@@ -1907,7 +1907,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "120":{
+      "1816-4900":{
          "ISSN":"1816-4900",
          "JournalName":"International Journal of Virology",
          "Publisher":"Academic Journals, Inc.",
@@ -1923,7 +1923,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "121":{
+      "1811-9778":{
          "ISSN":"1811-9778",
          "JournalName":"International Journal of Zoological Research",
          "Publisher":"Academic Journals, Inc.",
@@ -1939,7 +1939,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "122":{
+      "2156-7573":{
          "ISSN":"2156-7573",
          "JournalName":"Journal of Advanced Microscopy Research",
          "Publisher":"American Scientific Publishers",
@@ -1955,7 +1955,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "123":{
+      "1927-7210":{
          "ISSN":"1927-7210",
          "JournalName":"Journal of Analytical Oncology",
          "Publisher":"Lifescience Global",
@@ -1971,7 +1971,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "124":{
+      "1680-5593":{
          "ISSN":"1680-5593",
          "JournalName":"Journal of Animal and Veterinary Advances",
          "Publisher":"Medwell Journals",
@@ -1987,7 +1987,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "125":{
+      "2231-3354":{
          "ISSN":"2231-3354",
          "JournalName":"Journal of Applied Pharmaceutical Science",
          "Publisher":"Medipoeia Publication",
@@ -2003,7 +2003,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "126":{
+      "1648-3898":{
          "ISSN":"1648-3898",
          "JournalName":"Journal of Baltic Science Education",
          "Publisher":"Scientia Socialis",
@@ -2019,7 +2019,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "127":{
+      "1556-6560":{
          "ISSN":"1556-6560",
          "JournalName":"Journal of Biobased Materials and Bioenergy",
          "Publisher":"American Scientific Publishers",
@@ -2035,7 +2035,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "128":{
+      "2157-9083":{
          "ISSN":"2157-9083",
          "JournalName":"Journal of Biomaterials and Tissue Engineering",
          "Publisher":"American Scientific Publishers",
@@ -2051,7 +2051,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "129":{
+      "1550-7033":{
          "ISSN":"1550-7033",
          "JournalName":"Journal of Biomedical Nanotechnology",
          "Publisher":"American Scientific Publishers",
@@ -2067,7 +2067,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "130":{
+      "1557-7910":{
          "ISSN":"1557-7910",
          "JournalName":"Journal of Bionanoscience",
          "Publisher":"American Scientific Publishers",
@@ -2083,7 +2083,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "131":{
+      "0975-7384":{
          "ISSN":"0975-7384",
          "JournalName":"Journal of Chemical and Pharmaceutical Research",
          "Publisher":"Journal of Chemical and Pharmaceutical Research",
@@ -2099,7 +2099,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "132":{
+      "0974-2115":{
          "ISSN":"0974-2115",
          "JournalName":"Journal of Chemical and Pharmaceutical Sciences",
          "Publisher":"Journal of Chemical and Pharmaceutical Sciences",
@@ -2115,7 +2115,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "133":{
+      "1796-2021":{
          "ISSN":"1796-2021",
          "JournalName":"Journal of Communications",
          "Publisher":"Engineering and Technology Publishing",
@@ -2131,7 +2131,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "134":{
+      "1546-1955":{
          "ISSN":"1546-1955",
          "JournalName":"Journal of Computational and Theoretical Nanoscience",
          "Publisher":"American Scientific Publishers",
@@ -2147,7 +2147,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "135":{
+      "1549-3636":{
          "ISSN":"1549-3636",
          "JournalName":"Journal of Computer Science",
          "Publisher":"Science Publications",
@@ -2163,7 +2163,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "136":{
+      "1796-203X":{
          "ISSN":"1796-203X",
          "JournalName":"Journal of Computers",
          "Publisher":"Academy Publisher",
@@ -2179,7 +2179,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "137":{
+      "1533-3604":{
          "ISSN":"1533-3604",
          "JournalName":"Journal of Economics and Economic Education Research",
          "Publisher":"Allied Academies",
@@ -2195,7 +2195,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "138":{
+      "1816-949X":{
          "ISSN":"1816-949X",
          "JournalName":"Journal of Engineering & Applied Sciences (Faisalabad)",
          "Publisher":"Medwell Journals",
@@ -2211,7 +2211,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "139":{
+      "1812-5670":{
          "ISSN":"1812-5670",
          "JournalName":"Journal of Entomology",
          "Publisher":"Academic Journals, Inc.",
@@ -2227,7 +2227,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "140":{
+      "1098-8394":{
          "ISSN":"1098-8394",
          "JournalName":"Journal of Entrepreneurship Education",
          "Publisher":"Allied Academies",
@@ -2243,7 +2243,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "141":{
+      "1058-3912":{
          "ISSN":"1058-3912",
          "JournalName":"Journal of Environmental Hydrology",
          "Publisher":"International Association for Environmental Hydrology",
@@ -2259,7 +2259,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "142":{
+      "1816-4927":{
          "ISSN":"1816-4927",
          "JournalName":"Journal of Fisheries and Aquatic Science",
          "Publisher":"Academic Journals, Inc.",
@@ -2275,7 +2275,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "143":{
+      "2078-0303":{
          "ISSN":"2078-0303",
          "JournalName":"Journal of Language and Literature",
          "Publisher":"Progress Press Inc.",
@@ -2291,7 +2291,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "144":{
+      "1544-0036":{
          "ISSN":"1544-0036",
          "JournalName":"Journal of Legal, Ethical and Regulatory Issues",
          "Publisher":"Allied Academies",
@@ -2307,7 +2307,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "145":{
+      "1546-1998":{
          "ISSN":"1546-1998",
          "JournalName":"Journal of Low Power Electronics",
          "Publisher":"American Scientific Publishers",
@@ -2323,7 +2323,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "146":{
+      "1549-3644":{
          "ISSN":"1549-3644",
          "JournalName":"Journal of Mathematics and Statistics",
          "Publisher":"Science Publications",
@@ -2339,7 +2339,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "147":{
+      "2156-7018":{
          "ISSN":"2156-7018",
          "JournalName":"Journal of Medical Imaging and Health Informatics",
          "Publisher":"American Scientific Publishers",
@@ -2355,7 +2355,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "148":{
+      "1555-130X":{
          "ISSN":"1555-130X",
          "JournalName":"Journal of Nanoelectronics and Optoelectronics",
          "Publisher":"American Scientific Publishers",
@@ -2371,7 +2371,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "149":{
+      "1533-4880":{
          "ISSN":"1533-4880",
          "JournalName":"Journal of Nanoscience and Nanotechnology",
          "Publisher":"American Scientific Publishers",
@@ -2387,7 +2387,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "150":{
+      "2092-8637":{
          "ISSN":"2092-8637",
          "JournalName":"Journal of Next Generation Information Technology",
          "Publisher":"Advanced Institute of Convergence Information Technology",
@@ -2403,7 +2403,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "151":{
+      "1544-0508":{
          "ISSN":"1544-0508",
          "JournalName":"Journal of Organizational Culture, Communications and Conflict",
          "Publisher":"Allied Academies",
@@ -2419,7 +2419,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "152":{
+      "0975-1459":{
          "ISSN":"0975-1459",
          "JournalName":"Journal of Pharmaceutical Sciences and Research",
          "Publisher":"Pharmainfo Publications",
@@ -2435,7 +2435,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "153":{
+      "2141-2502":{
          "ISSN":"2141-2502",
          "JournalName":"Journal of Pharmacognosy and Phytotherapy",
          "Publisher":"Academic Journals",
@@ -2451,7 +2451,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "154":{
+      "1816-496X":{
          "ISSN":"1816-496X",
          "JournalName":"Journal of Pharmacology and Toxicology",
          "Publisher":"Academic Journals, Inc.",
@@ -2467,7 +2467,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "155":{
+      "2223-3806":{
          "ISSN":"2223-3806",
          "JournalName":"Journal of Pharmacy and Nutrition Sciences",
          "Publisher":"Lifescience Global",
@@ -2483,7 +2483,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "156":{
+      "0974-6943":{
          "ISSN":"0974-6943",
          "JournalName":"Journal of Pharmacy Research",
          "Publisher":"JPR Solutions",
@@ -2499,7 +2499,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "157":{
+      "0915-5287":{
          "ISSN":"0915-5287",
          "JournalName":"Journal of Physical Therapy Science",
          "Publisher":"I P E C Inc.",
@@ -2515,7 +2515,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "158":{
+      "1816-4951":{
          "ISSN":"1816-4951",
          "JournalName":"Journal of Plant Sciences",
          "Publisher":"Academic Journals, Inc.",
@@ -2531,7 +2531,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "159":{
+      "1544-8053":{
          "ISSN":"1544-8053",
          "JournalName":"Journal of Residuals Science & Technology",
          "Publisher":"DEStech Publications, Inc.",
@@ -2547,7 +2547,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "160":{
+      "1819-4311":{
          "ISSN":"1819-4311",
          "JournalName":"Journal of Software Engineering",
          "Publisher":"Academic Journals, Inc.",
@@ -2563,7 +2563,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "161":{
+      "1913-9063":{
          "ISSN":"1913-9063",
          "JournalName":"Journal of Sustainable Development",
          "Publisher":"Canadian Center of Science and Education",
@@ -2579,7 +2579,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "162":{
+      "1992-8645":{
          "ISSN":"1992-8645",
          "JournalName":"Journal of Theoretical and Applied Information Technology",
          "Publisher":"Asian Research Publishing Network (A R P N)",
@@ -2595,7 +2595,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "163":{
+      "1752-8909":{
          "ISSN":"1752-8909",
          "JournalName":"Journal of Uncertain Systems",
          "Publisher":"World Academic Union (World Academic Press)",
@@ -2611,7 +2611,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "164":{
+      "2158-5849":{
          "ISSN":"2158-5849",
          "JournalName":"Materials Express",
          "Publisher":"American Scientific Publishers",
@@ -2627,7 +2627,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "165":{
+      "1300-686X":{
          "ISSN":"1300-686X",
          "JournalName":"Mathematical & Computational Applications",
          "Publisher":"Association for Scientific Research",
@@ -2643,7 +2643,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "166":{
+      "2039-9340":{
          "ISSN":"2039-9340",
          "JournalName":"Mediterranean Journal of Social Sciences",
          "Publisher":"Mediterranean Center of Social and Educational Research",
@@ -2659,7 +2659,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "167":{
+      "1990-9233":{
          "ISSN":"1990-9233",
          "JournalName":"Middle East Journal of Scientific Research",
          "Publisher":"International Digital Organization for Scientific Information",
@@ -2675,7 +2675,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "168":{
+      "1913-1844":{
          "ISSN":"1913-1844",
          "JournalName":"Modern Applied Science",
          "Publisher":"Canadian Center of Science and Education",
@@ -2691,7 +2691,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "169":{
+      "1847-9804":{
          "ISSN":"1847-9804",
          "JournalName":"Nanomaterials and Nanotechnology",
          "Publisher":"InTech Open Access Publisher",
@@ -2707,7 +2707,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "170":{
+      "1941-4900":{
          "ISSN":"1941-4900",
          "JournalName":"Nanoscience and Nanotechnology Letters",
          "Publisher":"American Scientific Publishers",
@@ -2723,7 +2723,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "171":{
+      "1949-2553":{
          "ISSN":"1949-2553",
          "JournalName":"OncoTarget",
          "Publisher":"Impact Journals LLC",
@@ -2739,7 +2739,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "172":{
+      "1608-4217":{
          "ISSN":"1608-4217",
          "JournalName":"OnLine Journal of Biological Sciences",
          "Publisher":"Science Publications",
@@ -2755,7 +2755,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "173":{
+      "0031-5125":{
          "ISSN":"0031-5125",
          "JournalName":"Perceptual and Motor Skills",
          "Publisher":"Ammons Scientific Ltd.",
@@ -2771,7 +2771,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "174":{
+      "0033-2941":{
          "ISSN":"0033-2941",
          "JournalName":"Psychological Reports",
          "Publisher":"Ammons Scientific Ltd.",
@@ -2787,7 +2787,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "175":{
+      "1815-932X":{
          "ISSN":"1815-932X",
          "JournalName":"Research Journal of Applied Sciences",
          "Publisher":"Medwell Journals",
@@ -2803,7 +2803,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "176":{
+      "1819-1932":{
          "ISSN":"1819-1932",
          "JournalName":"Research Journal of Business Management",
          "Publisher":"Academic Journals, Inc.",
@@ -2819,7 +2819,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "177":{
+      "1819-3420":{
          "ISSN":"1819-3420",
          "JournalName":"Research Journal of Environmental Toxicology",
          "Publisher":"Academic Journals, Inc.",
@@ -2835,7 +2835,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "178":{
+      "1815-7432":{
          "ISSN":"1815-7432",
          "JournalName":"Research Journal of Information Technology",
          "Publisher":"Academic Journals, Inc.",
@@ -2851,7 +2851,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "179":{
+      "1815-9346":{
          "ISSN":"1815-9346",
          "JournalName":"Research Journal of Medical Sciences",
          "Publisher":"Medwell Journals",
@@ -2867,7 +2867,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "180":{
+      "1819-3455":{
          "ISSN":"1819-3455",
          "JournalName":"Research Journal of Medicinal Plant",
          "Publisher":"Academic Journals, Inc.",
@@ -2883,7 +2883,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "181":{
+      "1816-4935":{
          "ISSN":"1816-4935",
          "JournalName":"Research Journal of Microbiology",
          "Publisher":"Academic Journals, Inc.",
@@ -2899,7 +2899,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "182":{
+      "1816-4943":{
          "ISSN":"1816-4943",
          "JournalName":"Research Journal of Parasitology",
          "Publisher":"Academic Journals, Inc.",
@@ -2915,7 +2915,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "183":{
+      "0975-8585":{
          "ISSN":"0975-8585",
          "JournalName":"Research Journal of Pharmaceutical, Biological and Chemical Sciences",
          "Publisher":"Research Journal of Pharmaceutical, Biological and Chemical Sciences",
@@ -2931,7 +2931,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "184":{
+      "1819-3471":{
          "ISSN":"1819-3471",
          "JournalName":"Research Journal of Phytochemistry",
          "Publisher":"Academic Journals, Inc.",
@@ -2947,7 +2947,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "185":{
+      "1918-7173":{
          "ISSN":"1918-7173",
          "JournalName":"Review of European Studies",
          "Publisher":"Canadian Center of Science and Education",
@@ -2963,7 +2963,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "186":{
+      "2077-429X":{
          "ISSN":"2077-429X",
          "JournalName":"Risk Governance and Control: Financial Markets & Institutions",
          "Publisher":"Virtus Interpress",
@@ -2979,7 +2979,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "187":{
+      "1224-5984":{
          "ISSN":"1224-5984",
          "JournalName":"Romanian Biotechnology Letters",
          "Publisher":"Editura Universitatea din Bucuresti,Bucharest University Press",
@@ -2995,7 +2995,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "188":{
+      "1947-2935":{
          "ISSN":"1947-2935",
          "JournalName":"Science of Advanced Materials",
          "Publisher":"American Scientific Publishers",
@@ -3011,7 +3011,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "189":{
+      "1546-198X":{
          "ISSN":"1546-198X",
          "JournalName":"Sensor Letters",
          "Publisher":"American Scientific Publishers",
@@ -3027,7 +3027,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "190":{
+      "1735-1391":{
          "ISSN":"1735-1391",
          "JournalName":"Shiraz E Medical Journal",
          "Publisher":"Shiraz University of Medical Sciences",
@@ -3043,7 +3043,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "191":{
+      "1840-3662":{
          "ISSN":"1840-3662",
          "JournalName":"Sport Science",
          "Publisher":"Drustvo Pedagoga Tjelesne i Zdravstvene Kulture,Physical Education Pedagogues Association",
@@ -3059,7 +3059,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "192":{
+      "1945-4570":{
          "ISSN":"1945-4570",
          "JournalName":"Stem Cell",
          "Publisher":"Marsland Press",
@@ -3075,7 +3075,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "193":{
+      "0976-3104":{
          "ISSN":"0976-3104",
          "JournalName":"The IIOAB Journal",
          "Publisher":"Institute of Integrative Omics and Applied Biotechnology",
@@ -3091,7 +3091,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "194":{
+      "0254-8704":{
          "ISSN":"0254-8704",
          "JournalName":"The Journal of Environmental Biology",
          "Publisher":"Journal of Environmental Biology",
@@ -3107,7 +3107,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "195":{
+      "1874-6136":{
          "ISSN":"1874-6136",
          "JournalName":"The Open AIDS Journal",
          "Publisher":"Bentham Open",
@@ -3123,7 +3123,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "196":{
+      "1874-4443":{
          "ISSN":"1874-4443",
          "JournalName":"The Open Automation and Control Systems Journal",
          "Publisher":"Bentham Open",
@@ -3139,7 +3139,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "197":{
+      "1874-091X":{
          "ISSN":"1874-091X",
          "JournalName":"The Open Biochemistry Journal",
          "Publisher":"Bentham Open",
@@ -3155,7 +3155,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "198":{
+      "1874-1207":{
          "ISSN":"1874-1207",
          "JournalName":"The Open Biomedical Engineering Journal",
          "Publisher":"Bentham Open",
@@ -3171,7 +3171,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "199":{
+      "1874-0707":{
          "ISSN":"1874-0707",
          "JournalName":"The Open Biotechnology Journal",
          "Publisher":"Bentham Open",
@@ -3187,7 +3187,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "200":{
+      "1874-1924":{
          "ISSN":"1874-1924",
          "JournalName":"The Open Cardiovascular Medicine Journal",
          "Publisher":"Bentham Open",
@@ -3203,7 +3203,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "201":{
+      "1874-1231":{
          "ISSN":"1874-1231",
          "JournalName":"The Open Chemical Engineering Journal",
          "Publisher":"Bentham Open",
@@ -3219,7 +3219,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "202":{
+      "1874-1495":{
          "ISSN":"1874-1495",
          "JournalName":"The Open Civil Engineering Journal",
          "Publisher":"Bentham Open",
@@ -3235,7 +3235,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "203":{
+      "1874-8368":{
          "ISSN":"1874-8368",
          "JournalName":"The Open Construction & Building Technology Journal",
          "Publisher":"Bentham Open",
@@ -3251,7 +3251,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "204":{
+      "1874-110X":{
          "ISSN":"1874-110X",
          "JournalName":"The Open Cybernetics and Systemics Journal",
          "Publisher":"Bentham Open",
@@ -3267,7 +3267,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "205":{
+      "1874-2106":{
          "ISSN":"1874-2106",
          "JournalName":"The Open Dentistry Journal",
          "Publisher":"Bentham Open",
@@ -3283,7 +3283,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "206":{
+      "1874-3722":{
          "ISSN":"1874-3722",
          "JournalName":"The Open Dermatology Journal",
          "Publisher":"Bentham Open",
@@ -3299,7 +3299,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "207":{
+      "1874-1290":{
          "ISSN":"1874-1290",
          "JournalName":"The Open Electrical and Electronic Engineering Journal",
          "Publisher":"Bentham Open",
@@ -3315,7 +3315,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "208":{
+      "1876-973X":{
          "ISSN":"1876-973X",
          "JournalName":"The Open Fuels & Energy Science Journal",
          "Publisher":"Bentham Open",
@@ -3331,7 +3331,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "209":{
+      "1874-088X":{
          "ISSN":"1874-088X",
          "JournalName":"The Open Materials Science Journal",
          "Publisher":"Bentham Open",
@@ -3347,7 +3347,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "210":{
+      "1874-155X":{
          "ISSN":"1874-155X",
          "JournalName":"The Open Mechanical Engineering Journal",
          "Publisher":"Bentham Open",
@@ -3363,7 +3363,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "211":{
+      "1874-2858":{
          "ISSN":"1874-2858",
          "JournalName":"The Open Microbiology Journal",
          "Publisher":"Bentham Open",
@@ -3379,7 +3379,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "212":{
+      "1874-4346":{
          "ISSN":"1874-4346",
          "JournalName":"The Open Nursing Journal",
          "Publisher":"Bentham Open",
@@ -3395,7 +3395,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "213":{
+      "1874-3641":{
          "ISSN":"1874-3641",
          "JournalName":"The Open Ophthalmology Journal",
          "Publisher":"Bentham Open",
@@ -3411,7 +3411,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "214":{
+      "1876-3863":{
          "ISSN":"1876-3863",
          "JournalName":"The Open Pain Journal",
          "Publisher":"Bentham Open",
@@ -3427,7 +3427,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "215":{
+      "1874-8341":{
          "ISSN":"1874-8341",
          "JournalName":"The Open Petroleum Engineering Journal",
          "Publisher":"Bentham Open",
@@ -3443,7 +3443,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "216":{
+      "1874-3501":{
          "ISSN":"1874-3501",
          "JournalName":"The Open Psychology Journal",
          "Publisher":"Bentham Open",
@@ -3459,7 +3459,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "217":{
+      "1874-3064":{
          "ISSN":"1874-3064",
          "JournalName":"The Open Respiratory Medicine Journal",
          "Publisher":"Bentham Open",
@@ -3475,7 +3475,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "218":{
+      "1874-3129":{
          "ISSN":"1874-3129",
          "JournalName":"The Open Rheumatology Journal",
          "Publisher":"Bentham Open",
@@ -3491,7 +3491,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "219":{
+      "1875-399X":{
          "ISSN":"1875-399X",
          "JournalName":"The Open Sports Sciences Journal",
          "Publisher":"Bentham Open",
@@ -3507,7 +3507,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "220":{
+      "1874-303X":{
          "ISSN":"1874-303X",
          "JournalName":"The Open Urology & Nephrology Journal",
          "Publisher":"Bentham Open",
@@ -3523,7 +3523,7 @@ var data ={
          "DOAJ":"normal",
          "ScopusDiscontinued":"False"
       },
-      "221":{
+      "0975-8216":{
          "ISSN":"0975-8216",
          "JournalName":"The Pharma Research",
          "Publisher":"Sudarshan Institute of Technical & Education Publication P. Ltd.",
@@ -3539,7 +3539,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "222":{
+      "1818-5800":{
          "ISSN":"1818-5800",
          "JournalName":"The Social Sciences",
          "Publisher":"Medwell Journals",
@@ -3555,7 +3555,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "223":{
+      "1818-4952":{
          "ISSN":"1818-4952",
          "JournalName":"World Applied Sciences Journal",
          "Publisher":"International Digital Organization for Scientific Information",
@@ -3571,7 +3571,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "224":{
+      "1817-3055":{
          "ISSN":"1817-3055",
          "JournalName":"World Journal of Medical Sciences",
          "Publisher":"International Digital Organization for Scientific Information",
@@ -3587,7 +3587,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "225":{
+      "1746-7233":{
          "ISSN":"1746-7233",
          "JournalName":"World Journal of Modelling and Simulation",
          "Publisher":"World Academic Union (World Academic Press)",
@@ -3603,7 +3603,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"False"
       },
-      "226":{
+      "1991-8747":{
          "ISSN":"1991-8747",
          "JournalName":"WSEAS Transactions on Applied and Theoretical Mechanics",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3619,7 +3619,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "227":{
+      "1109-9518":{
          "ISSN":"1109-9518",
          "JournalName":"WSEAS Transactions on Biology and Biomedicine",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3635,7 +3635,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "228":{
+      "1109-9526":{
          "ISSN":"1109-9526",
          "JournalName":"WSEAS Transactions on Business and Economics",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3651,7 +3651,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "229":{
+      "1109-2734":{
          "ISSN":"1109-2734",
          "JournalName":"WSEAS Transactions on Circuits and Systems",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3667,7 +3667,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "230":{
+      "1109-2742":{
          "ISSN":"1109-2742",
          "JournalName":"WSEAS Transactions on Communications",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3683,7 +3683,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "231":{
+      "1109-2750":{
          "ISSN":"1109-2750",
          "JournalName":"WSEAS Transactions on Computers",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3699,7 +3699,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "232":{
+      "1790-5079":{
          "ISSN":"1790-5079",
          "JournalName":"WSEAS Transactions on Environment and Development",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3715,7 +3715,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "233":{
+      "1790-5087":{
          "ISSN":"1790-5087",
          "JournalName":"WSEAS Transactions on Fluid Mechanics",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3731,7 +3731,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "234":{
+      "1790-5044":{
          "ISSN":"1790-5044",
          "JournalName":"WSEAS Transactions on Heat and Mass Transfer",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3747,7 +3747,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "235":{
+      "1790-0832":{
          "ISSN":"1790-0832",
          "JournalName":"WSEAS Transactions on Information Science and Applications",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3763,7 +3763,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "236":{
+      "1109-2769":{
          "ISSN":"1109-2769",
          "JournalName":"WSEAS Transactions on Mathematics",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3779,7 +3779,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "237":{
+      "2224-2880":{
          "ISSN":"2224-2880",
          "JournalName":"WSEAS Transactions on Mathematics (Online)",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3795,7 +3795,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "238":{
+      "1790-5060":{
          "ISSN":"1790-5060",
          "JournalName":"WSEAS Transactions on Power Systems",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3811,7 +3811,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "239":{
+      "1109-2777":{
          "ISSN":"1109-2777",
          "JournalName":"WSEAS Transactions on Systems",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",
@@ -3827,7 +3827,7 @@ var data ={
          "DOAJ":"not in DOAJ",
          "ScopusDiscontinued":"True"
       },
-      "240":{
+      "1991-8763":{
          "ISSN":"1991-8763",
          "JournalName":"WSEAS Transactions on Systems and Controls",
          "Publisher":"World Scientific and Engineering Academy and Society (W S E A S)",

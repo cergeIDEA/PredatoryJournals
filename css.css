@@ -129,9 +129,12 @@ h2 {
 }
 
 #closeDescLink {
-	position:absolute;
-	top:5px;
-	right:5px;
+	position:relative;
+	top:0px;
+	right:0px;
+	float:right;
+	margin-left: 5px;
+
 }
 select::-ms-expand {
     display: none;

@@ -1,6 +1,6 @@
 ﻿var bZoomed = false;
 function DrawChart() {
-	var points = $.map(data.points,function (el) {return el; })
+	var points = $.map(data.points,function (el) {if(el.Included == 'True') {return el; }})
 
 	var margin = {top:30,right:20,bottom:30,left:40},
 		width = 530 - margin.left - margin.right,
@@ -226,8 +226,8 @@ function SelectFromDDL(d)
 			{
 			    value.selected = "0";
 			});
-
 	document.getElementById("ddlSearch").value = d.ISSN;
+
     var obj = data.points[d.ISSN];
     delete data.points[d.ISSN];
     data.points[obj.ISSN] = obj;
@@ -296,9 +296,14 @@ function openDescBox(d)
 function GetIndexationString(d)
 {
 	var result = "";
-	if (d.WoS == 'TRUE') { result += 'Indexován ve Web of Science'} else {result += 'Není indexován ve Web of Science'}
-	if (d.DOAJ == 'not in DOAJ') {result += ' a není v databázi DOAJ.'} else {
-		if (d.DOAJ == 'normal') {result += ' a v databázi DOAJ je zařazen na základě méně náročných kriterií.'} else { result += ' a v databázi DOAJ získal tzv. "zelené razítko".'}
+	if (d.Included == 'True'){
+		if (d.WoS == 'TRUE') { result += 'Indexován ve Web of Science'} else {result += 'Není indexován ve Web of Science'}
+		if (d.DOAJ == 'not in DOAJ') {result += ' a není v databázi DOAJ.'} else {
+			if (d.DOAJ == 'normal') {result += ' a v databázi DOAJ je zařazen na základě méně náročných kriterií.'} else { result += ' a v databázi DOAJ získal tzv. "zelené razítko".'}
+		}
+	}
+	else {
+		result = 'Časopis nemá dost pozorování k zařazení do hlubší analýzy'
 	}
 	return result;
 }

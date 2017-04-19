@@ -81,8 +81,13 @@ div.tooltip {
 .legend text{
 	font-size: 12px;
 }
-
 .searchbox {
+	width: 350px;
+}
+.searchbox-container {
+	border:2px solid #BB133E;
+}
+/*.searchbox {
     border:2px solid #BB133E;
     color: #BB133E;
     border-radius:8px;
@@ -90,6 +95,13 @@ div.tooltip {
     height: 28px;
     width: 350px;
     margin-top: 5px;
+}*/
+
+#searchdiv {
+	display:block;
+}
+.select2-container {
+    width: 200px;
 }
 
 .selected {

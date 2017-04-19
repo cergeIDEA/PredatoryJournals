@@ -26,7 +26,7 @@ function DrawChart() {
 
 	var color = d3.scaleOrdinal()
 	  .domain(["Frontiers", "Impact Journals", "ostatní vydavatelé", "samostatné časopisy"])
-	  .range(["#818A8F", "#F79646" , "#4F81BD","#BB133E"]); //#9BBB59
+	  .range(["#9BBB59", "#F79646" , "#4F81BD","#BB133E"]);
 
 
 	var yAxis = d3.axisLeft().scale(yScale).ticks(5);
@@ -285,7 +285,7 @@ function openDescBox(d)
 		$('#jPublisher').html('Vydavatelství: ' + d.Publisher +  ' (' + d.PublisherCountry + ')');
 		var sLink = 'https://www.scopus.com/results/results.uri?numberOfFields=0&src=s&clickedLink=&edit=&editSaveSearch=&origin=searchbasic&authorTab=&affiliationTab=&advancedTab=&scint=1&menu=search&tablin=&searchterm1=' + d.ISSN + '&field1=ISSN&dateType=Publication_Date_Type&yearFrom=2013&yearTo=2015&loadDate=7&documenttype=Article%2CReview&resetFormLink=&st1=' + d.ISSN + '&st2=&sot=b&sdt=b&sl=15&s=ISSN%28' +d.ISSN + '%29&sid=6DD658C6ADDFBFFB9E2BBFF39306F5D8.wsnAw8kcdt7IPYLO0V48gA%3A110&searchId=6DD658C6ADDFBFFB9E2BBFF39306F5D8.wsnAw8kcdt7IPYLO0V48gA%3A110&txGid=6DD658C6ADDFBFFB9E2BBFF39306F5D8.wsnAw8kcdt7IPYLO0V48gA%3A11&sort=plf-f&originationType=b&rr=';
 		var sLink = 'https://www.scopus.com/results/results.uri?numberOfFields=0&src=s&clickedLink=&edit=&editSaveSearch=&origin=searchbasic&authorTab=&affiliationTab=&advancedTab=&scint=1&menu=search&tablin=&searchterm1=' + d.ISSN + '&field1=ISSN&dateType=Publication_Date_Type&yearFrom=2013&yearTo=2015&loadDate=7&documenttype=Article%2CReview&resetFormLink=&st1=' + d.ISSN + '&st2=&sot=b&sdt=b&sl=15&s=ISSN%28' + d.ISSN + '%29'
-		$('#jResults').html('V letech 2013 - 2015 je ve Scopusu  <a href="'+sLink+'" target="_blank">' + d.Results + ' výsledků</a> (odkaz směřuje do placené části databáze)')
+		$('#jResults').html('V letech 2013 - 2015 je ve Scopusu  <a href="'+sLink+'" target="_blank">' + d.Results + ' výsledků</a> (aktuální k 30. říjnu 2016; odkaz směřuje do placené části databáze)')
 
 		$('#jOtherDB').html(GetIndexationString(d));
 		$('#closeDescLink').html('<a id="closeDescLink" href="#" onclick="closeDescBox();return false;"><img src="CloseIcon.png" height="30" width="30"></img></a>')
@@ -298,7 +298,7 @@ function GetIndexationString(d)
 	var result = "";
 	if (d.WoS == 'TRUE') { result += 'Indexován ve Web of Science'} else {result += 'Není indexován ve Web of Science'}
 	if (d.DOAJ == 'not in DOAJ') {result += ' a není v databázi DOAJ.'} else {
-		if (d.DOAJ == 'normal') {result += ' a v databázi DOAJ je zařazen na základě méně náročných kriterií.'} else { result += ' a v databázi DOAJ získal tzv. "zelené vyznamenání".'}
+		if (d.DOAJ == 'normal') {result += ' a v databázi DOAJ je zařazen na základě méně náročných kriterií.'} else { result += ' a v databázi DOAJ získal tzv. "zelené razítko".'}
 	}
 	return result;
 }

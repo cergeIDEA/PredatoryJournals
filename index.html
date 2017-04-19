@@ -7,34 +7,41 @@
 		<script type="text/javascript" src="https://d3js.org/d3.v4.min.js" ></script>
 		<script type="text/javascript" src="predatori.js"></script>
 		<script type="text/javascript" src="scatter.js"></script>
-		<script type="text/javascript" src="jquery.searchabledropdown-1.0.8.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="css.css"></link>
+
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet" />
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
 		<script type="text/javascript">
-	$(document).ready(function() {
-		$("#ddlSearch").searchable();
-	});
-	$(document).ready(function(){
-	$.each(data.points,function(key, value)
-		{
-		    $('#ddlSearch').append('<option value=' + key + '>' + value.JournalName + '</option>');
-		});
-	});
+            $(document).ready(function() {
+              $("#ddlSearch").select2();
+			  $.each(data.points,function(key, value)
+			  	{
+			  	    $('#ddlSearch').append('<option value=' + key + '>' + value.JournalName + '</option>');
+			  	});
+            });
+
+        </script>
+
+
+		<script type="text/javascript">
 
 
 	</script>
-		<link rel="stylesheet" type="text/css" href="css.css"></link>
 	</head>
 	<body onload="DrawChart()">
 	<h2> </h2>
 	<h2>Predátorské časopisy ve Scopusu</h2>
 	<img src="IDEA.png" id="logo"></img>
 <div class="controls">
-	<select id="ddlSearch" class="searchbox" onchange="findJournal()">
-    <option value="0">... hledat časopis</option>
 
-</select>
+		<select id='ddlSearch' class="searchbox" onchange="findJournal()">
+			<option value="0">... hledat časopis</option>
+		</select>
 <a class=button onclick="UpdateZoom()" id="btnZoom">Přiblížit III.</a>
 
 	 </div>
+
+ </div>
 	<div id="chart">
 	</div>
 	<div id="descBox" class="boxclosed">

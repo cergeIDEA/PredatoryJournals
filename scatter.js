@@ -65,9 +65,9 @@ function DrawChart() {
 				if (d.selected != "0")	{ return "selected"; }
 				else { return "unselected"; }
 			}
+
 		})
 		.attr("data-legend", function (d) {return d.category; })
-		//.style('pointer-events','all')
 		.on("mouseover", function(d) {
 			tooltip.transition()
                .duration(200)

@@ -1,7 +1,7 @@
 var data = {
    "chartTitle":"Predátorské časopisy ve Scopusu",
    "yLabel":"Scimago Journal Rank",
-   "xLabel":"% autorů z rozvinutých zemí",
+   "xLabel":"% autorů z vyspělých zemí",
    "points":{
       "1096-3685":{
          "ISSN":"1096-3685",

@@ -297,7 +297,7 @@ function GetIndexationString(d)
 {
 	var result = "";
 	if (d.Included == 'True'){
-		if (d.WoS == 'TRUE') { result += 'Indexován ve Web of Science'} else {result += 'Není indexován ve Web of Science'}
+		if (d.WoS == '1.0') { result += 'Indexován ve Web of Science'} else {result += 'Není indexován ve Web of Science'}
 		if (d.DOAJ == 'not in DOAJ') {result += ' a není v databázi DOAJ.'} else {
 			if (d.DOAJ == 'normal') {result += ' a v databázi DOAJ je zařazen na základě méně náročných kriterií.'} else { result += ' a v databázi DOAJ získal tzv. "zelené razítko".'}
 		}
